@@ -1,5 +1,0 @@
-/home/wtc/Desktop/WeShare_Api_and_Gui_Testing/obj/Release/net5.0/linux-x64/netcore-template.csproj.AssemblyReference.cache
-/home/wtc/Desktop/WeShare_Api_and_Gui_Testing/obj/Release/net5.0/linux-x64/netcore-template.GeneratedMSBuildEditorConfig.editorconfig
-/home/wtc/Desktop/WeShare_Api_and_Gui_Testing/obj/Release/net5.0/linux-x64/netcore-template.AssemblyInfoInputs.cache
-/home/wtc/Desktop/WeShare_Api_and_Gui_Testing/obj/Release/net5.0/linux-x64/netcore-template.AssemblyInfo.cs
-/home/wtc/Desktop/WeShare_Api_and_Gui_Testing/obj/Release/net5.0/linux-x64/netcore-template.csproj.CoreCompileInputs.cache
